@@ -23,12 +23,12 @@ In this project, you'll apply what you've learned on data modeling with Postgres
 %run -i 'etl.py'
 ```
 ## An explanation of the files in the repository
-- data: data folder which contains song_data and log_data
-- create_tables.py: script to create database tables
-- sql_queries.py: script contains all sql queries using in the project
-- etl.py: script to run ETL pipeline
-- etl.ipynb: contains detailed instructions on the ETL process for each of the tables
-- test.ipynb: use for test
+- `data`: data folder which contains song_data and log_data
+- `create_tables.py`: script to create database tables
+- `sql_queries.py`: script contains all sql queries using in the project
+- `etl.py`: script to run ETL pipeline
+- `etl.ipynb`: contains detailed instructions on the ETL process for each of the tables
+- `test.ipynb`: use for test
 
 ## Deployment
 - Create virtual environment for the project
